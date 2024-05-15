@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Haarhoff
-- 👀 I’m interested in becoming a programmer/developer even though I am 38 years of age.
+- 👀 I’m interested in becoming a programmer/developer even though I am 40 years of age.
 - 🌱 I’m currently learning Python and I am currently doing the Udemy course 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 - 📫 I can be reached on vhaarhoff@gmail.com
 
